@@ -100,3 +100,6 @@ Now see the keys, `id`, `name`, `username`, `enmail`, `phone`, and `website` app
 }
 ````
 Order is preserved.
+
+## Limitations
+Currently onle simple JSON is supported, i.e. NO NESTED JSON SUPPORT.
