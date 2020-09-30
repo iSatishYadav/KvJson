@@ -10,8 +10,7 @@ Consider this JSON
     "id": 1,
     "name": "Leanne Graham",
     "username": "Bret",
-    "email": "Sincere@april.biz"
-    },
+    "email": "Sincere@april.biz",
     "phone": "1-770-736-8031 x56442",
     "website": "hildegard.org"
   },
@@ -43,7 +42,7 @@ Consider this JSON
     "id": 5,
     "name": "Chelsey Dietrich",
     "username": "Kamren",
-    "email": "Lucio_Hettinger@annie.ca"
+    "email": "Lucio_Hettinger@annie.ca",
     "phone": "(254)954-1289",
     "website": "demarco.info",
   },
@@ -101,3 +100,6 @@ Now see the keys, `id`, `name`, `username`, `enmail`, `phone`, and `website` app
 }
 ````
 Order is preserved.
+
+## Limitations
+Currently onle simple JSON is supported, i.e. NO NESTED JSON SUPPORT.
