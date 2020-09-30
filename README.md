@@ -11,7 +11,6 @@ Consider this JSON
     "name": "Leanne Graham",
     "username": "Bret",
     "email": "Sincere@april.biz"
-    },
     "phone": "1-770-736-8031 x56442",
     "website": "hildegard.org"
   },
@@ -43,7 +42,7 @@ Consider this JSON
     "id": 5,
     "name": "Chelsey Dietrich",
     "username": "Kamren",
-    "email": "Lucio_Hettinger@annie.ca"
+    "email": "Lucio_Hettinger@annie.ca",
     "phone": "(254)954-1289",
     "website": "demarco.info",
   },
